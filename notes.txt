@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "base version of productivitylens deployed"
+git branch -M main
+git remote add origin https://github.com/alokjha2/productivitylenslive.git
+git push -u origin main
+
